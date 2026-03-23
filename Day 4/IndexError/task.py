@@ -7,3 +7,15 @@ states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia", "Conne
                      "New Mexico", "Arizona", "Alaska", "Hawaii"]
 
 print(states_of_america)
+
+
+fruits = ["Cherry", "Apple", "Pear"]
+veg = ["Cucumber", "Kale", "Spinnach"]
+fruits_and_veg = [fruits, veg]
+print(fruits_and_veg)
+print(fruits_and_veg[0][0])
+print(fruits_and_veg[0][1])
+print(fruits_and_veg[1][0])
+print(fruits_and_veg[1][1])
+print(fruits_and_veg[0])
+#The list would look like this: [["Cherry", "Apple", "Pear"], ["Cucumber", "Kale", "Spinnach"]]
