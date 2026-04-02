@@ -30,3 +30,14 @@ resources = {
     "coffee": 100,
 }
 
+
+"""
+# Coffee Machine Program Requirements
+- Prompt user by asking “What would you like? (espresso/latte/cappuccino):”
+- Turn off the Coffee Machine by entering “off” to the prompt. 
+- Print report. 
+- Check resources sufficient? 
+- Process coins. 
+- Check transaction successful?
+- Make Coffee.
+"""
